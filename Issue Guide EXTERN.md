@@ -12,7 +12,7 @@ Beispiel: mii-process-models/Modellebene2/..
 Gehen Sie im Repository auf den Reiter "Issues". Navigieren Sie zu "New Issues" und klicken Sie auf "Issue template".
 3. Titel vergeben <br>
 Wählen Sie einen aussagekräftigen Titel, der die betroffene Datei und das Thema kurz beschreibt.
-Beispiel: Anmerkung zu docs/leitfaden/aufnahmeprozess.md – Unklare Formulierung
+Beispiel: Anmerkung zu Modellebene1/1 Überblick Data Sharing v1.0.1 – Unklare Formulierung
 4. Beschreibung ausfüllen <br>
 Geben Sie in der Beschreibung folgende Informationen an:<br>
 - Dateipfad <br>
