@@ -1,4 +1,4 @@
-# Bearbeitung der eingegangenen Issues 
+# Bearbeitung der eingegangenen Issues innerhalb der Taskforce Prozessmodelle
 
 **Ziel**<br> 
 Strukturierte Prüfung, Bearbeitung und Dokumentation von Issues 
