@@ -8,5 +8,5 @@ Dieses Repository dient der zentralisierten Ablage, Pflege und Weiterentwicklung
 - Erläuterungen zu den Prozessmodellen und zur Modellierung sind im Begleitdokument zu finden.
 
 **Anmerkungen zu Prozessmodellen**<br>
-Bei Anmerkungen zu einzelnen Prozessmodellen kann ein Issue entsprechend der Beschreibung in "Issue Guide EXTERN" erstellt werden. Eingehende Issues werden von der TF Prozessmodelle geprüft und bearbeitet.
+Bei Anmerkungen zu einzelnen Prozessmodellen kann ein Issue entsprechend der Beschreibung in "VA Issue Guide EXTERN" erstellt werden. Eingehende Issues werden von der TF Prozessmodelle geprüft und bearbeitet.
 
